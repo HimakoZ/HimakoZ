@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
- 💙<a href="https://www.linkedin.com/in/mia-xie-9095b2268/">LinkedIn</a> •
+ 💙<a href="https://www.linkedin.com/in/MiaXie1103">LinkedIn</a> •
   <a href="https://twitter.com/MiaXie1103">Twitter</a>💙
 </p>
 

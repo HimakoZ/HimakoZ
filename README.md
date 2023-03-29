@@ -12,8 +12,7 @@
   Visitor Count<br>
   <img src="https://profile-counter.glitch.me/HimakoZ/count.svg" />
 </p>
-
-
+ 
 
 ### 🤓About Me
 
@@ -40,8 +39,11 @@
   <img width="500" alt="Mooki" src="https://raw.githubusercontent.com/HimakoZ/HimakoZ/main/photo3.png"> 
 
 ------
-  
-  
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HimakoZ&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+------
+ 
 | 🎵 Now Playing                                                                                                                    |
 | ------------------------------------------------------------------------------------------------------------------------------ |
 | <a href="https://status.nmoo.dev/now-playing?open"><img src="https://status.nmoo.dev/now-playing" width="540" height="64"></a> |
